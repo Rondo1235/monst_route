@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "モンスト 壁反射ガイド",
+  "short_name": "壁反射ガイド",
+  "description": "モンストのショット角度と壁反射を確認するガイド",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1524",
+  "theme_color": "#0c1524",
+  "icons": [
+    {"src": "./app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "./app-icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
